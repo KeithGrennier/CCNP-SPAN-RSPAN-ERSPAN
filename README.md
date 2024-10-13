@@ -11,3 +11,6 @@ Possibly less if splitting lab uptime between each module
 - upload 'SPAN_RSPAN_ERSPAN.yaml' into cml
 - Part 1&2: R1,SW2,SW1 online
 - Part 3: R1,R2 online
+
+## Topology
+![Topology](TOPOLOGY.png)
